@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BotanicalAmy
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python & signalR
-- 💞️ I’m looking to collaborate on data projects
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to create solutions with programming
 - 📫 How to reach me amyfolkestad@gmaill.com
 
 <!---
