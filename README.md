@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BotanicalAmy
-- 👀 I’m interested in data science
-- 🌱 I’m currently growing my Python, statistics, machine learning, and AI skills
+- 👋 Hi, I’m Amy
 - 💞️ I love data, analytics, math, and visualization
+- 🌱 I’m currently growing my Python, statistics, machine learning, and AI skills
+- 💼 See my online portfolio [Denver Data Design](https://denverdatadesign.com/)
 - 📫 How to reach me amyfolkestad@gmail.com
 - 🎨 See my creative life on Instagram [@BotanicalAmy](https://www.instagram.com/botanicalamy/)
 <!---
