@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amy
-- 💞️ I love data, analytics, math, and visualization
+- 💞️ I love data, analytics, math, and creating visualizations
 - 🌱 I’m currently growing my Python, statistics, machine learning, and AI skills
 - 💼 See my online portfolio [Denver Data Design](https://denverdatadesign.com/)
 - 📫 Reach me amyfolkestad@gmail.com
