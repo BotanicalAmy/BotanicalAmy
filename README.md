@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amy
-- 💞️ I love data, analytics, math, and creating visualizations
+- 💞️ I love data, analytics, math, and art
 - 🌱 I’m currently growing my statistics skills at the Colorado School of Mines
 - 💼 See my online portfolio [Denver Data Design](https://denverdatadesign.com/)
 - 📫 Reach me amyfolkestad@gmail.com
