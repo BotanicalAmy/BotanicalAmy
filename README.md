@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amy
 - 💞️ I love data, analytics, math, and art
-- ⚙️ I'm a [Data Engineer at AMD](https://www.linkedin.com/in/amy-folkestad/), building data infrastructure and products that power data-driven decisions across CPU teams
+- ⚙️ I'm a [MTS Data Engineer at AMD](https://www.linkedin.com/in/amy-folkestad/), building data infrastructure to power CPU engineering
 - 💼 See my online portfolio [Denver Data Design](https://denverdatadesign.com/)
 - 📫 Reach me amyfolkestad@gmail.com
 - 🎨 See my creative life on Instagram [@BotanicalAmy](https://www.instagram.com/botanicalamy/)
