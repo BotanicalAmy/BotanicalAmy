@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amy
 - 💞️ I love data, analytics, math, and art
-- 🌱 I’m currently growing my statistics skills at the Colorado School of Mines
+- 🌱 I’m currently advancing engineering as a data engineer at AMD
 - 💼 See my online portfolio [Denver Data Design](https://denverdatadesign.com/)
 - 📫 Reach me amyfolkestad@gmail.com
 - 🎨 See my creative life on Instagram [@BotanicalAmy](https://www.instagram.com/botanicalamy/)
